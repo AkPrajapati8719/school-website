@@ -1,11 +1,12 @@
 body {
   font-family:'roboto condenced',sens-serif;
   font-weight: 400; 
+  overflow-x: hidden;
 }
 
 .navbar {
-  background-color: #1777dd;
-  height: 70px;
+  background-color: #1c72d4;
+  height: 80px;
 }
 
 .navbar-nav .nav-link {
@@ -20,7 +21,7 @@ body {
 /* Styling the navbar with the nv2 prefix */
 .nv2-navbar {
   margin-top: 73px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 
 .nv2-navbar .container-fluid {
